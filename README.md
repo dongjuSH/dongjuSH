@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요! 성남에 거주 중인 웹 퍼블리셔 신동주입니다. 👋
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **dongjuSH/dongjuSH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
