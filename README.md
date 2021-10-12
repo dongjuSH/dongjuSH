@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=신동주의%GitHub입니다.&fontSize=50)
 ### 안녕하세요! 성남에 거주 중인 웹 퍼블리셔 신동주입니다. 👋
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/dongjuSH)
+[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](https://github.com/dongjuSH)
 
 
 <!--
